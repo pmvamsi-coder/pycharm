@@ -1,6 +1,4 @@
 print('hello git')
 
-jbjbjbkjkjbjk
-
-guihhnnnkjkbhjjk
-hjhjbjbb
+for i in range(10):
+    print(i)
